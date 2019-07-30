@@ -63,3 +63,13 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
 gem 'devise-i18n' # Devise 번역 Gem
+
+## 연동 로그인 API 때 쓰일 Gem
+gem 'omniauth-oauth2'
+gem 'omniauth-google-oauth2'
+
+## API 키를 숨기기 위한 Gem
+gem 'figaro'
+
+## DB를 시각화로 확인을 위한 Gem
+gem 'rails_db'
