@@ -1,0 +1,6 @@
+GOOGLE_CLIENT_ID: ""
+GOOGLE_CLIENT_SECRET: ""
+
+## 작성 예시, 아래 Key 값을 그대로 위에 작성하지 마세요.
+# GOOGLE_CLIENT_ID: "122050200181-ugmohpk261ed8m1h3ckd7hof1lojb533.apps.googleusercontent.com"
+# GOOGLE_CLIENT_SECRET: "hUm-3FjWvANw9lfn1EG30TXw"
